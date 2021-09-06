@@ -1,4 +1,4 @@
 # tic-tac-toe
-A game project based in React
+- A game project based in React
 
-switch to gh-pages to preview demo
+- Switch to gh-pages to check demo
